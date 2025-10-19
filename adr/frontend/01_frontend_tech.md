@@ -37,4 +37,6 @@ Negative:
 2025-10-19
 
 ## Authors / Reviewers
-M. N. Jeral Sandeeptha
+Backend Team Lead
+Software Architect
+Senior Frontend Developer
